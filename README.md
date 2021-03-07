@@ -1,3 +1,5 @@
+[![Header](images/github__white-header.png "Header")](https://www.linkedin.com/in/catalina-fernandez-heredia/)
+
 # Hello there! 😊 My name is Catalina
 
 ## 🤓 About me
