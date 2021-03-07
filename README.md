@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Header](https://github.com/catahache/catahache/blob/main/images/github__header.png "Header")](https://www.linkedin.com/in/catalina-fernandez-heredia/)
+
 <!--
 **catahache/catahache** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
