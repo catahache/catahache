@@ -1,12 +1,72 @@
-[![Header](https://github.com/catahache/catahache/blob/main/images/github__white-header.png "Header")](https://www.linkedin.com/in/catalina-fernandez-heredia/)
+<style>
+.flex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: "5px";
+}
+</style>
 
-# Hello there! 😊 My name is Catalina.
+# Hello there! 😊 My name is Catalina
+
+## 🤓 About me
+
+---
 
 I'm a **front end web developer**💻 and **digital art curator** 🎨 based in Buenos Aires, Argentina.
 
-I'm currently studying to achieve a Technical Programming Degree at **Universidad Tecnológica Nacional** in Argentina, because I love coding and creating digital art projects.
+I'm currently studying to achieve a Technical Programming Degree at **Universidad Tecnológica Nacional** and in **CoderHouse**, because I love coding and creating digital projects.
 
-Feel free to contact me if you want!
+Feel free to contact me if you want on [![Twitter][1.2]][1] or on [![LinkedIn][3.2]][3]!
+
+<!-- Icons -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png "twitter"
+[2.2]: https://raw.githubusercontent.com/catahache/catachache/master/linkedin.png "LinkedIn"
+
+<!-- Links -->
+
+[1]: https://twitter.com/grlncrtl
+[2]: https://www.linkedin.com/in/catalina-fernandez-heredia/
+
+## 🔧 Technologies and Tools
+
+---
+
+![](https://img.shields.io/badge/OS-MacOSX-informational?style=flat&logo=macos&logoColor=7E4DD3&color=7E4DD3)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=7E4DD3&color=7E4DD3)
+![](https://img.shields.io/badge/Editor-VSC-informational?style=flat&logo=visual-studio-code&logoColor=7E4DD3&color=7E4DD3)
+![](https://img.shields.io/badge/Editor-WebStorm-informational?style=flat&logo=jetbrains&logoColor=7E4DD3&color=7E4DD3)
+![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=appveyor&logoColor=7E4DD3&color=7E4DD3)
+![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=7E4DD3&color=7E4DD3)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=7E4DD3&color=7E4DD3)
+![](https://img.shields.io/badge/Tools-ReactJS-informational?style=flat&logo=react&logoColor=7E4DD3&color=7E4DD3)
+![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=firebase&logoColor=7E4DD3&color=7E4DD3)
+
+## 📈 Github stats
+
+---
+
+<a href="https://github.com/catahache">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=catahache&show_icons=true&theme=jolly&custom_title=Cata%20Hache's%20Github%20Stats" />
+</a> 
+<a href="https://github.com/catahache">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catahache&theme=jolly&layout=compact" />
+</a>
+
+<a href="https://github.com/catahache/anime-searcher">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=catahache&repo=anime-searcher&theme=jolly" />
+</a> 
+<a href="https://github.com/catahache/CoderHouse">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=catahache&repo=CoderHouse&theme=jolly" />
+</a>
+
+<a href="https://github.com/catahache/rapsoda.pd">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=catahache&repo=rapsoda.pd&theme=jolly" />
+</a> 
+<a href="https://github.com/catahache/CursoIngresoJS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=catahache&repo=CursoIngresoJS&theme=jolly" />
+</a>
 
 <!--
 **catahache/catahache** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
