@@ -4,7 +4,7 @@
 
 ---
 
-I'm a **front end web developer**💻 and **digital art curator** 🎨 based in Buenos Aires, Argentina.
+I'm a **front end web developer**&nbsp; 💻 &nbsp; and **digital art curator**&nbsp; 🎨 &nbsp; based in Buenos Aires, Argentina.
 
 I'm currently studying to achieve a Technical Programming Degree at **Universidad Tecnológica Nacional** and in **CoderHouse**, because I love coding and creating digital projects.
 
@@ -13,7 +13,7 @@ Feel free to contact me if you want on [![Twitter][1.2]][1] or on [![LinkedIn][3
 <!-- Icons -->
 
 [1.2]: http://i.imgur.com/wWzX9uB.png "twitter"
-[2.2]: https://raw.githubusercontent.com/catahache/catachache/master/linkedin.png "LinkedIn"
+[2.2]: https://raw.githubusercontent.com/catahache/catahache/main/images/logos/javascript.svg?token=ALH7S254ADJXB453WR24METAIVP2Q "LinkedIn"
 
 <!-- Links -->
 
@@ -73,3 +73,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- Resources -->
+<!-- Icons: https://simpleicons.org/ -->
+<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
+<!-- Emojis: https://emojipedia.org/emoji/ -->
+<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
+<!-- Shields: https://shields.io/ -->
+<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
