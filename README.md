@@ -8,17 +8,19 @@ I'm a **front end web developer**&nbsp; 💻 &nbsp; and **digital art curator**&
 
 I'm currently studying to achieve a Technical Programming Degree at **Universidad Tecnológica Nacional** and in **CoderHouse**, because I love coding and creating digital projects.
 
-Feel free to contact me if you want on [![Twitter][1.2]][1] or on [![LinkedIn][3.2]][3]!
+Feel free to contact me on [![Twitter][1.2]][1] or on [![LinkedIn][2.2]][2]&nbsp;!
 
 <!-- Icons -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png "twitter"
-[2.2]: https://raw.githubusercontent.com/catahache/catahache/main/images/logos/javascript.svg?token=ALH7S254ADJXB453WR24METAIVP2Q "LinkedIn"
+[1.2]: images/logos/twitter.png "twitter"
+[2.2]: images/logos/linkedin.png "LinkedIn"
 
 <!-- Links -->
 
 [1]: https://twitter.com/grlncrtl
 [2]: https://www.linkedin.com/in/catalina-fernandez-heredia/
+
+&nbsp;
 
 ## 🔧 Technologies and Tools
 
@@ -34,6 +36,8 @@ Feel free to contact me if you want on [![Twitter][1.2]][1] or on [![LinkedIn][3
 ![](https://img.shields.io/badge/Tools-ReactJS-informational?style=flat&logo=react&logoColor=7E4DD3&color=7E4DD3)
 ![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=firebase&logoColor=7E4DD3&color=7E4DD3)
 
+&nbsp;
+
 ## 📈 Github stats
 
 ---
@@ -41,6 +45,7 @@ Feel free to contact me if you want on [![Twitter][1.2]][1] or on [![LinkedIn][3
  <a href="https://github.com/catahache">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catahache&theme=jolly" />
 </a>
+
 <a href="https://github.com/catahache">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=catahache&show_icons=true&theme=jolly&custom_title=Cata%20Hache's%20Github%20Stats" />
 </a>
