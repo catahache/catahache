@@ -1,6 +1,12 @@
-### Hi there 👋
+[![Header](https://github.com/catahache/catahache/blob/main/images/github__white-header.png "Header")](https://www.linkedin.com/in/catalina-fernandez-heredia/)
 
-[![Header](https://github.com/catahache/catahache/blob/main/images/github__header.png "Header")](https://www.linkedin.com/in/catalina-fernandez-heredia/)
+# Hello there! 😊 My name is Catalina.
+
+I'm a **front end web developer**💻 and **digital art curator** 🎨 based in Buenos Aires, Argentina.
+
+I'm currently studying to achieve a Technical Programming Degree at **Universidad Tecnológica Nacional** in Argentina, because I love coding and creating digital art projects.
+
+Feel free to contact me if you want!
 
 <!--
 **catahache/catahache** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
