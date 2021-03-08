@@ -8,7 +8,7 @@
 
 I'm a **front end web developer**&nbsp; 💻 &nbsp; and **digital art curator**&nbsp; 🎨 &nbsp; based in Buenos Aires, Argentina.
 
-I'm currently studying to achieve a Technical Programming Degree at **Universidad Tecnológica Nacional** and in **CoderHouse**, because I love coding and creating digital projects.
+I'm currently studying to achieve a Technical Programming Degree at **Universidad Tecnológica Nacional** and a diploma in Web Design and Development at **CoderHouse**, because I love coding and creating digital projects.
 
 Feel free to contact me on [![Twitter][1.2]][1] or on [![LinkedIn][2.2]][2]&nbsp;!
 
