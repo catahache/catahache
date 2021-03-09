@@ -37,6 +37,7 @@ Feel free to contact me on [![Twitter][1.2]][1] or on [![LinkedIn][2.2]][2]&nbsp
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=7E4DD3&color=7E4DD3)
 ![](https://img.shields.io/badge/Tools-ReactJS-informational?style=flat&logo=react&logoColor=7E4DD3&color=7E4DD3)
 ![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=firebase&logoColor=7E4DD3&color=7E4DD3)
+![](https://img.shields.io/badge/Tools-Sass-informational?style=flat&logo=sass&logoColor=7E4DD3&color=7E4DD3)
 
 &nbsp;
 
