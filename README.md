@@ -35,7 +35,7 @@ Feel free to contact me on [![Twitter][1.2]][1] or on [![LinkedIn][2.2]][2]&nbsp
 ![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=appveyor&logoColor=7E4DD3&color=7E4DD3)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=7E4DD3&color=7E4DD3)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=7E4DD3&color=7E4DD3)
-![](https://img.shields.io/badge/Tools-ReactJS-informational?style=flat&logo=react&logoColor=7E4DD3&color=7E4DD3)
+![](https://img.shields.io/badge/Framework-ReactJS-informational?style=flat&logo=react&logoColor=7E4DD3&color=7E4DD3)
 ![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=firebase&logoColor=7E4DD3&color=7E4DD3)
 ![](https://img.shields.io/badge/Tools-Sass-informational?style=flat&logo=sass&logoColor=7E4DD3&color=7E4DD3)
 
@@ -67,20 +67,6 @@ Feel free to contact me on [![Twitter][1.2]][1] or on [![LinkedIn][2.2]][2]&nbsp
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=catahache&repo=CursoIngresoJS&theme=jolly" />
 </a>
 
-<!--
-**catahache/catahache** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
