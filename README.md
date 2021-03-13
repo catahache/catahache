@@ -36,6 +36,7 @@ Feel free to contact me on [![Twitter][1.2]][1] or on [![LinkedIn][2.2]][2]&nbsp
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=7E4DD3&color=7E4DD3)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=7E4DD3&color=7E4DD3)
 ![](https://img.shields.io/badge/Framework-ReactJS-informational?style=flat&logo=react&logoColor=7E4DD3&color=7E4DD3)
+![](https://img.shields.io/badge/Framework-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=7E4DD3&color=7E4DD3)
 ![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=firebase&logoColor=7E4DD3&color=7E4DD3)
 ![](https://img.shields.io/badge/Tools-Sass-informational?style=flat&logo=sass&logoColor=7E4DD3&color=7E4DD3)
 
@@ -66,7 +67,6 @@ Feel free to contact me on [![Twitter][1.2]][1] or on [![LinkedIn][2.2]][2]&nbsp
 <a href="https://github.com/catahache/CursoIngresoJS">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=catahache&repo=CursoIngresoJS&theme=jolly" />
 </a>
-
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
